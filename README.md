@@ -68,7 +68,7 @@ The development timeline is estimated to be 3 months from the project initiation
 - **Month 3:** Testing, Deployment, Training
 
 ## 6. Cost Estimation <a name="cost-estimation"></a>
-Based on the scope and timeline, the estimated cost for building the POS system is 2 million Naira.
+Based on the scope and timeline, the estimated cost for building the POS system is TBD.
 
 ## 7. Signatures <a name="signatures"></a>
 This Software Requirement Document is agreed upon by:  
