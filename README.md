@@ -1,6 +1,6 @@
 # Software Requirement Document
 
-## Project Title: Point of Sale System for Octoplus Marketing plc
+## Project Title: Management System for Octoplus Marketing plc
 
 **Version:** 1.0  
 **Date:** March 24, 2024  
@@ -16,7 +16,7 @@
 7. [Signatures](#signatures)
 
 ## 1. Introduction <a name="introduction"></a>
-This document outlines the software requirements for developing a Point of Sale (POS) system for Octoplus Marketing plc. The system aims to streamline the company's sales process, inventory management, user roles, and product management while providing a user-friendly interface.
+This document outlines the software requirements for developing a management  system for Octoplus Marketing plc. The system aims to streamline the company's sales process, inventory management, user roles, and product management while providing a user-friendly interface.
 
 ## 2. Scope <a name="scope"></a>
 The POS system will include the following features:
